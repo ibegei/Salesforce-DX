@@ -1,0 +1,153 @@
+[
+    [
+        "c:\\Users\\Gazik\\Desktop\\TrialDevHubProject\\Begei\\force-app",
+        {
+            "sourcePath": "c:\\Users\\Gazik\\Desktop\\TrialDevHubProject\\Begei\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1529322749313,
+            "changeTime": 1529322749313,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\Users\\Gazik\\Desktop\\TrialDevHubProject\\Begei\\force-app\\main",
+        {
+            "sourcePath": "c:\\Users\\Gazik\\Desktop\\TrialDevHubProject\\Begei\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1529322749313,
+            "changeTime": 1529322749313,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Gazik\\Desktop\\TrialDevHubProject\\Begei\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Gazik\\Desktop\\TrialDevHubProject\\Begei\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1529415769909,
+            "changeTime": 1529415769909,
+            "contentHash": "2448061de5e28ea0a6d493ec89014fd3af158a49"
+        }
+    ],
+    [
+        "c:\\Users\\Gazik\\Desktop\\TrialDevHubProject\\Begei\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "c:\\Users\\Gazik\\Desktop\\TrialDevHubProject\\Begei\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1529322749313,
+            "changeTime": 1529322749313,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Gazik\\Desktop\\TrialDevHubProject\\Begei",
+        {
+            "sourcePath": "c:\\Users\\Gazik\\Desktop\\TrialDevHubProject\\Begei",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1529322939360,
+            "changeTime": 1529322939360,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Gazik\\Desktop\\TrialDevHubProject\\Begei\\force-app\\main\\default\\triggers\\CaseTrigger.trigger-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\Gazik\\Desktop\\TrialDevHubProject\\Begei\\force-app\\main\\default\\triggers\\CaseTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 178,
+            "modifiedTime": 1529415697039,
+            "changeTime": 1529415697039,
+            "contentHash": "0da86305758ba96f2ae282a7bdb7a347584afb17",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\Gazik\\Desktop\\TrialDevHubProject\\Begei\\force-app\\main\\default\\triggers\\CaseTrigger.trigger",
+        {
+            "sourcePath": "c:\\Users\\Gazik\\Desktop\\TrialDevHubProject\\Begei\\force-app\\main\\default\\triggers\\CaseTrigger.trigger",
+            "isDirectory": false,
+            "size": 84,
+            "modifiedTime": 1529415697039,
+            "changeTime": 1529415697039,
+            "contentHash": "e75df9776003a4714da79b22ba4c6a106f0e74a5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\Gazik\\Desktop\\TrialDevHubProject\\Begei\\force-app\\main\\default\\triggers",
+        {
+            "sourcePath": "c:\\Users\\Gazik\\Desktop\\TrialDevHubProject\\Begei\\force-app\\main\\default\\triggers",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1529415697039,
+            "changeTime": 1529415697039,
+            "contentHash": "399c956d738f2cdb1334ee641b19d9a340b68d2c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\Gazik\\Desktop\\TrialDevHubProject\\Begei\\force-app\\main\\default\\classes\\testClass.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Gazik\\Desktop\\TrialDevHubProject\\Begei\\force-app\\main\\default\\classes\\testClass.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1529415769909,
+            "changeTime": 1529415769909,
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5"
+        }
+    ],
+    [
+        "c:\\Users\\Gazik\\Desktop\\TrialDevHubProject\\Begei\\force-app\\main\\default\\classes\\testClass.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Gazik\\Desktop\\TrialDevHubProject\\Begei\\force-app\\main\\default\\classes\\testClass.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 101,
+            "modifiedTime": 1529415769909,
+            "changeTime": 1529415769909,
+            "contentHash": "f9f3c70777002f5bb640cd6bf1ee479acfed2eb4"
+        }
+    ],
+    [
+        "c:\\Users\\Gazik\\Desktop\\TrialDevHubProject\\Begei\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Gazik\\Desktop\\TrialDevHubProject\\Begei\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1529415769909,
+            "changeTime": 1529415769909,
+            "contentHash": "27380012d09109c29367003372b020273d81f333"
+        }
+    ]
+]
